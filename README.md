@@ -21,7 +21,7 @@
 <!-- Preview -->
 <p align="center">
   <a href="">
-    <img src="./assets/images/previews/preview.png" width="100%"/>
+    <img src="./assets/images/discord_defaults_avatars/wojak.jpg" width="100%"/>
   </a>
   <!-- Drop Shadow -->
   <a href="">
