@@ -1,0 +1,41 @@
+{
+    "welcome": "Bienvenue, ",
+    "select_option": "Sélectionnez l'option que vous souhaitez exécuter.",
+
+    "start_app": "DiscoFun",
+    "start_desktop": "APPLI DE BUREAU - DiscoFun",
+
+    "support": "Support",
+    "settings": "Paramètres",
+    "update": "Vérifier les mises à jour",
+    "language": "Language",
+    "go_back": "Retourner en arrière",
+    "done": "OK",
+    "exit": "Quitter",
+
+    "discordserver": "Serveur Discord",
+    "submit_issue": "Envoyer un Issue/Rapport de bug/Suggestion",
+
+    "DiscoFun_help":"Demarrer DiscoFun dans votre navigateur par défaut.",
+    "desktop_panel_help": "Damarrer DiscoFun dans l'application.",
+    "settings_help": "Ouvrir les paramètres de DiscoFun.",
+    "exit_help": "Quitter ce script.",
+    "support_help": "Avoir le support pour DiscoFun",
+    "update_help": "Mettre à jour DiscoFun dans la dernière version disponible.",
+    "language_help": "Choisir un langage pour DiscoFun",
+    "go_back_help": "Retourner dans le panneau de sélection.",
+    "discord_help": "Ouvrir le serveur Discord de support dans le navigateur par défaut.",
+    "issue_help": "Envoyez in Issue/Rapport de bug/Suggesion sur GitHub",
+    "get_help": "Avoir de l'aide sur DiscoFun",
+
+    "check_installation": "Vérifier que vous avez installé DiscoFun correctement.",
+    "checking_failure": "Échec de la vérification.",
+    "checking_system": "Verification de DiscoFun...",
+    "check_success": "Vérification effectué.",
+    "updating": "Mise à jour de DiscoFun en cours...",
+    "updating_failure": "Impossible de mettre à jour DiscoFun, il y a eu une erreur",
+    "check_index": "Vérification du fichier index.html",
+    "check_main": "Vérification du fichier main.js",
+    "check_repo_download_method": "Cloner le Repository et réessayez",
+    "booting": "Chargement de DiscoFun..."
+}

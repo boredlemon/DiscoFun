@@ -1,0 +1,43 @@
+{
+    "welcome": "Hello",
+    "select_option": "Válasszon egy opciót.",
+
+    "start_app": "DiscoFun",
+    "start_desktop": "DESKTOP APP - DiscoFun",
+
+    "support": "Támogatás",
+    "settings": "Beállítások",
+    "update": "Frissítések ellenőrzése",
+    "language": "Nyelv",
+    "go_back": "Vissza",
+    "done": "Kész!",
+    "exit": "Kilépés",
+
+    "discordserver": "Discord Szerver",
+    "submit_issue": "Hiba jelentése/Ajánlattétel",
+
+    "DiscoFun_help":"DiscoFun indítása az alapértelmezett böngészőben.",
+    "desktop_panel_help": "DiscoFun alkalmazás indítása",
+    "settings_help": "Beállítások megnyitása a DiscoFun-hez.",
+    "exit_help": "Kilépés a scriptből.",
+    "support_help": "Támogatás a DiscoFun-hez",
+    "update_help": "DiscoFun frissítése a legújabb verzióra.",
+    "language_help": "Nyelv választása a DiscoFun-hez",
+    "english_help": "Choose a Language for DiscoFun",
+    "go_back_help": "Vissza a választópanelhez",
+    "discord_help": "Discord támogatási szerver megnyitása",
+    "issue_help": "Probléma/Hiba jelentése GitHub-on",
+    "get_help": "Támogatás/segítség kérése a DiscoFun-hez",
+
+    "check_installation": "Ellenőrizze, hogy helyesen telepítette-e a DiscoFun-t.",
+    "checking_failure": "Rendszer ellenőrzése meghiúsult.",
+    "checking_system": "DiscoFun rendszerének ellenőrzése ...",
+    "check_success": "Rendszer ellenőrzés sikeres.",
+    "updating": "DiscoFun frissítése ...",
+    "updating_failure": "DiscoFun frissítése sikertelen volt.",
+    "check_index": "Ellenőrizze, hogy az index.html file megtalálható-e.",
+    "check_main": "Ellenőrizze, hogy az main.js file megtalálható-e.",
+    "check_repo_download_method": "Másolja le újra a Repository-t és próbálja újra.",
+    "booting": "DiscoFun indítása ..."
+}
+

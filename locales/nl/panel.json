@@ -1,0 +1,42 @@
+{
+    "welcome": "Hallo,",
+    "select_option": "Selecteer de optie die jij wilt uitvoeren.",
+
+    "start_app": "DiscoFun",
+    "start_desktop": "DESKTOP APP - DiscoFun",
+
+    "support": "Support",
+    "settings": "Instellingen",
+    "update": "Controleer voor updates",
+    "language": "Taal",
+    "go_back": "Ga terug",
+    "done": "Klaar",
+    "exit": "Verlaat",
+
+    "discordserver": "Discord Server",
+    "submit_issue": "Dien een Probleem/Bug Report/Suggestie in",
+
+    "DiscoFun_help":"Start DiscoFun in jouw standaard browser.",
+    "desktop_panel_help": "Start de Desktop app van DiscoFun.",
+    "settings_help": "Open de instellingen van DiscoFun.",
+    "exit_help": "Verlaat deze script.",
+    "support_help": "Krijg support voor DiscoFun.",
+    "update_help": "Update DiscoFun naar de nieuwste versie.",
+    "language_help": "Kies een taal voor DiscoFun",
+    "go_back_help": "Ga terug naar het selectie paneel.",
+    "discord_help": "Open de Discord support server link in uw standaard browser.",
+    "issue_help": "Dien een probleem / bugrapport / suggestie in via GitHub.",
+    "get_help": "Krijg hulp/support voor DiscoFun:",
+
+    "check_installation": "Controleer of je DiscoFun juist hebt geïnstalleerd.",
+    "checking_failure": "Systeemcontrole is mislukt.",
+    "checking_system": "Het DiscoFun systeem controleren ...",
+    "check_success": "Systeem controle voltooid.",
+    "updating": "DiscoFun is aan het updaten ...",
+    "updating_failure": "DiscoFun kon niet worden geupdated, Er is een fout opgetreden tijdens het updaten.",
+    "check_index": "Controleer of index.html bestaat.",
+    "check_main": "Controleer of main.js bestaat.",
+    "check_repo_download_method": "Kopieer de Repository en probeer opnieuw.",
+    "booting": "DiscoFun aan het starten ..."
+}
+

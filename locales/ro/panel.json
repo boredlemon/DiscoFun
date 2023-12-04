@@ -1,0 +1,43 @@
+{
+    "welcome": "Buna,",
+    "select_option": "Selectați opțiunea pe care doriți să o efectuați.",
+
+    "start_app": "DiscoFun",
+    "start_desktop": "Aplicaţie PC - DiscoFun",
+
+    "support": "Ajutor",
+    "settings": "Setări",
+    "update": "Verifică pentru actualizări",
+    "language": "Limba",
+    "go_back": "Întoarce-te",
+    "done": "Terminat!",
+    "exit": "Ieșire",
+
+    "discordserver": "Server Discord",
+    "submit_issue": "Trimiteți o problemă / raport de eroare / sugestie",
+
+    "DiscoFun_help":"Porniți DiscoFun în browserul dvs. implicit.",
+    "desktop_panel_help": "Porniți aplicația pentru desktop a DiscoFun.",
+    "settings_help": "Deschide setari pentru DiscoFun.",
+    "exit_help": "Ieșiți din acest script.",
+    "support_help": "Obțineți asistență pentru DiscoFun.",
+    "update_help": "Actualizați DiscoFun la cea mai recentă versiune disponibilă.",
+    "language_help": "Alegeți o limbă pentru DiscoFun",
+    "english_help": "Alegeți o limbă pentru DiscoFun",
+    "go_back_help": "Reveniți la panoul de selecție.",
+    "discord_help": "Deschideți linkul serverului de asistență Discord din browserul dvs. implicit.",
+    "issue_help": "Trimiteți o problemă / raport de eroare / sugestie prin GitHub.",
+    "get_help": "Obțineți ajutor / asistență pentru DiscoFun:",
+
+    "check_installation": "Verificați dacă ați instalat corect DiscoFun.",
+    "checking_failure": "Verificarea sistemului nu a reușit.",
+    "checking_system": "Verificarea sistemului DiscoFun ...",
+    "check_success": "Verificarea sistemului a reușit.",
+    "updating": "Se actualizează DiscoFun ...",
+    "updating_failure": "Imposibil de actualizat DiscoFun, eroare la actualizarea DiscoFun.",
+    "check_index": "Verificați dacă există index.html.",
+    "check_main": "Verificați dacă main.js există.",
+    "check_repo_download_method": "Clonați 'Repository' și încercați din nou.",
+    "booting": "Se porneste DiscoFun ..."
+}
+

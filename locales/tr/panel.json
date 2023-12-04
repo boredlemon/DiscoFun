@@ -1,0 +1,41 @@
+{
+    "welcome": "Merhaba,",
+    "select_option": "Gerçekleştirmek istediğin işlemi seç.",
+
+    "start_web": "WEB - DiscoFun",
+    "start_desktop": "MASAÜSTÜ UYGULAMASI - DiscoFun",
+
+    "support": "Destek",
+    "settings": "Ayarlar",
+    "update": "Güncellemeleri Denetle",
+    "language": "Dil",
+    "go_back": "Geri Git",
+    "done": "Tamamlandı!",
+    "exit": "Çık",
+
+    "discordserver": "Discord Sunucusu",
+    "submit_issue": "Bir sorun/Hata Raporu/Öneri gönder.",
+
+    "DiscoFun_help":"Varsayılan tarayıcında DiscoFun'i çalıştır.",
+    "desktop_panel_help": "DiscoFun Masaüstü uygulamasını çalıştır.",
+    "settings_help": "DiscoFun ayarlarını aç.",
+    "exit_help": "Bu komut dosyasından çık.",
+    "support_help": "DiscoFun için destek al.",
+    "update_help": "DiscoFun'i mevcut en son sürüme güncelle.",
+    "language_help": "DiscoFun için bir dil seç",
+    "go_back_help": "Seçim paneline geri dön.",
+    "discord_help": "Varsayılan tarayıcıda Discord destek sunucusu bağlantısını aç.",
+    "issue_help": "Github üzerinden bir Sorun/Hata Raporu/Öneri gönder.",
+    "get_help": "DiscoFun için destek/yardım al:",
+
+    "check_installation": "DiscoFun'in doğru yüklenip yüklenmediğini kontrol et.",
+    "checking_failure": "Sistem kontrolü başarısız oldu.",
+    "checking_system": "DiscoFun sistemi kontrol ediliyor ...",
+    "check_success": "Sistem kontrolü başarılı.",
+    "updating": "DiscoFun güncelleniyor ...",
+    "updating_failure": "DiscoFun güncellenemiyor, DiscoFun güncellenirken bir hata meydana geldi.",
+    "check_index": "İndex.html'in mevcut olup olmadığını kontrol et.",
+    "check_main": "main.js'in mevcut olup olmadığını kontrol et.",
+    "check_repo_download_method": "Depoyu klonla ve tekrar dene.",
+    "booting": "DiscoFun başlatılıyor ..."
+}

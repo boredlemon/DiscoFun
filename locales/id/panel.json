@@ -1,0 +1,42 @@
+{
+    "welcome": "Hallo,",
+    "select_option": "Pilih opsi yang anda ingin lakukan.",
+
+    "start_app": "DiscoFun",
+    "start_desktop": "APLIKASI DESKTOP - DiscoFun",
+
+    "support": "Mendukung",
+    "settings": "Pengaturan",
+    "update": "Memeriksa Pembaruan",
+    "language": "Bahasa",
+    "go_back": "Kembali",
+    "done": "Selesai!",
+    "exit": "Keluar",
+
+    "discordserver": "Server Discord.",
+    "submit_issue": "Kirim masalah/Laporan Bug/Saran",
+
+    "DiscoFun_help":"Mulai DiscoFun di browser default Anda.",
+    "desktop_panel_help": "Mulai aplikasi Desktop DiscoFun.",
+    "settings_help": "Buka Pengaturan untuk DiscoFun",
+    "exit_help": "Keluar dari skrip ini.",
+    "support_help": "Dapatkan Dukungan untuk DiscoFun.",
+    "update_help": "Perbarui DiscoFun untuk pembaruan yang ada.",
+    "language_help": "Pilih bahasa untuk DiscoFun",
+    "go_back_help": "Kembali ke panel pilihan.",
+    "discord_help": "Buka tautan server dukungan Discord di browser default Anda.",
+    "issue_help": "Kirim Masalah/Laporan Bug/Saran di GitHub.",
+    "get_help": "Get Help/Support for DiscoFun:",
+
+    "check_installation": "Cek kalau kamu sudah menginstall DiscoFun dengan benar.",
+    "checking_failure": "Sistem cek gagal.",
+    "checking_system": "Mengecek DiscoFun Sistem ...",
+    "check_success": "Sistem cek Selesai.",
+    "updating": "Memperbarui DiscoFun ...",
+    "updating_failure": "Tidak dapat memperbarui DiscoFun, Kesalahan saat memperbarui DiscoFun.",
+    "check_index": "Cek bahwa index.html ada.",
+    "check_main": "Cek bahwa main.js ada.",
+    "check_repo_download_method": "Kloning Repositori dan coba lagi.",
+    "booting": "Mengeboot DiscoFun ..."
+}
+

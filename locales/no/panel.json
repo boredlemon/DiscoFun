@@ -1,0 +1,43 @@
+{
+    "welcome": "Hei,",
+    "select_option": "Velg alternativet du vil utføre.",
+
+    "start_app": "DiscoFun",
+    "start_desktop": "DATA APP - DiscoFun",
+
+    "support": "Hjelp",
+    "settings": "Innstillinger",
+    "update": "Se etter oppdateringer",
+    "language": "Språk",
+    "go_back": "Gå tilbake",
+    "done": "Ferdig!",
+    "exit": "Gå ut",
+
+    "discordserver": "Discord Server",
+    "submit_issue": "Send inn en  feil eller forslag",
+
+    "DiscoFun_help":"Start DiscoFun inn dit standardnettleser.",
+    "desktop_panel_help": "Start DiscoFun appen.",
+    "settings_help": "Innstillinger for DiscoFun.",
+    "exit_help": "Gå ut av scripten.",
+    "support_help": "Få hjelp til DiscoFun.",
+    "update_help": "Oppdater DiscoFun til den nyeste versjon.",
+    "language_help": "Velg et språk til DiscoFun",
+    "english_help": "Velg et språk til DiscoFun",
+    "go_back_help": "Gå tilbake til valgpanelet.",
+    "discord_help": "Åpne Discord hjelp server link i dit standardnettleser.",
+    "issue_help": "Send inn en feil eller forslag gjennom GitHub.",
+    "get_help": "Få hjelp / støtte for DiscoFun:",
+
+    "check_installation": "Sjekk om du har installert DiscoFun riktig.",
+    "checking_failure": "Systemkontrollen mislyktes.",
+    "checking_system": "Kontrollerer DiscoFun-systemet ...",
+    "check_success": "Systemkontroll vellykket.",
+    "updating": "Oppdaterer DiscoFun ...",
+    "updating_failure": "Kan ikke oppdatere DiscoFun, feil under oppdatering av DiscoFun.",
+    "check_index": "Sjekk om index.html eksisterer.",
+    "check_main": "Sjekk om main.js eksisterer.",
+    "check_repo_download_method": "Klon 'Repository' og prøv igjen.",
+    "booting": "Starter opp DiscoFun ..."
+}
+
