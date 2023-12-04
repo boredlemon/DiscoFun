@@ -1,14 +1,14 @@
 <!-- Logo -->
 <p align="center">
   <a href="https://github.com/OverjoyedToast/DiscoFun">
-    <img src="./assets/images/DiscoFun.png" alt="Logo" width="100" height="100">
+    <img src="./assets/images/discofun.png" alt="Logo" width="100" height="100">
   </a>
 </p>
 
 <!-- Title -->
 <h1 align="center">DiscoFun</h1>
   <p align="center">
-    Discord Messaging Panel that allows you to message inside of a bot!
+    Discord Messaging Tool that allows you to message inside of your bot!
     <br />
     <br />
     <a href="https://github.com/OverjoyedToast/DiscoFun/issues/new?assignees=&labels=Bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
@@ -34,7 +34,7 @@
 
 ## What's DiscoFun?
 
-<a href="https://github.com/DiscoFun" target="_blank">DiscoFun</a> is a new panel that allows you to message, manage and gain statistics inside of your discord bot.
+<a href="https://github.com/overjoyedtoast/DiscoFun" target="_blank">DiscoFun</a> is a cool tool that allows you to message, manage and gain statistics inside of your discord bot!
 <br/>
 
 <!-- Features -->
@@ -85,46 +85,9 @@ git clone https://github.com/OverjoyedToast/DiscoFun
 4. Start using DiscoFun!
 <br/>
 
-<!-- ROADMAP -->
+<!-- Issues -->
 
-## Roadmap
+## Issues
 
 See the [open issues](https://github.com/OverjoyedToast/DiscoFun/issues) for a list of proposed features (and known issues).
 <br/>
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-View [translation guide](https://github.com/OverjoyedToast/DiscoFun/blob/master/.github/TRANSLATION.md).
-
-View [contribution guide](https://github.com/OverjoyedToast/DiscoFun/blob/master/.github/CONTRIBUTION.md).
-<br/>
-
-## Supporters/Contributors
-
-### Translators:
-
-| Author                                                | Language  |
-| ----------------------------------------------------- | --------- |
-| [GreepTheSheep](https://github.com/GreepTheSheep)     | French    |
-| [Marijn2341](https://github.com/Marijn2341)           | Dutch     |
-| [devilAPI](https://github.com/devilAPI)               | German    |
-| [llamaiscoollmao](https://github.com/llamaiscoollmao) | Spanish   |
-| [llamaiscoollmao](https://github.com/llamaiscoollmao) | Norwegian |
-| [llamaiscoollmao](https://github.com/llamaiscoollmao) | Romanian  |
-| [llamaiscoollmao](https://github.com/llamaiscoollmao) | Russian   |
-| [GabiK65](https://github.com/GabiK65)                 | Hungarian |
-
-[![Stargazers repo roster for @OverjoyedToast/DiscoFun](https://reporoster.com/stars/OverjoyedToast/DiscoFun)](https://github.com/OverjoyedToast/DiscoFun/stargazers)
-
-[![Forkers repo roster for @OverjoyedToast/DiscoFun](https://reporoster.com/forks/OverjoyedToast/DiscoFun)](https://github.com/OverjoyedToast/DiscoFun/network/members)
-<br/>
-
-## License
-
-Copyright © 2022 OverjoyedToast (OverjoyedToast@protonmail.com)
-
-Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
