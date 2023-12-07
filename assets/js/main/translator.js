@@ -1,6 +1,6 @@
 /**
  * @file translator.js
- * @author OverjoyedToast
+ * @author ToastBox
  * @license GPL-3.0
  */
 

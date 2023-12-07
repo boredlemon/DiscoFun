@@ -1,6 +1,6 @@
 <#
  * File: Settings.ps1
- * Author: OverjoyedToast
+ * Author: ToastBox
  * License: GPL-3.0
 #>
 

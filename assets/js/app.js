@@ -1,6 +1,6 @@
 /**
  * @file app.js
- * @author OverjoyedToast
+ * @author ToastBox
  * @license GPL-3.0
  */
 

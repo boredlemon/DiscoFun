@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <a href="https://github.com/OverjoyedToast/DiscoFun">
+  <a href="https://github.com/toastbox1000/DiscoFun">
     <img src="./assets/images/discofun.png" alt="Logo" width="100" height="100">
   </a>
 </p>
@@ -11,9 +11,9 @@
     Discord Messaging Tool that allows you to message inside of your bot!
     <br />
     <br />
-    <a href="https://github.com/OverjoyedToast/DiscoFun/issues/new?assignees=&labels=Bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
+    <a href="https://github.com/toastbox1000/DiscoFun/issues/new?assignees=&labels=Bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
     ·
-    <a href="https://github.com/OverjoyedToast/DiscoFun/issues/new?assignees=&labels=Suggestions&template=suggestions.md&title=%5BSUGGESTION%5D">Request Feature</a>
+    <a href="https://github.com/toastbox1000/DiscoFun/issues/new?assignees=&labels=Suggestions&template=suggestions.md&title=%5BSUGGESTION%5D">Request Feature</a>
   </p>
 </h1>
 <br/><br/>
@@ -34,7 +34,7 @@
 
 ## What's DiscoFun?
 
-<a href="https://github.com/overjoyedtoast/DiscoFun" target="_blank">DiscoFun</a> is a cool tool that allows you to message, manage and gain statistics inside of your discord bot!
+<a href="https://github.com/toastbox1000/DiscoFun" target="_blank">DiscoFun</a> is a cool tool that allows you to message, manage and gain statistics inside of your discord bot!
 <br/>
 
 <!-- Features -->
@@ -73,7 +73,7 @@ To use the **desktop application** of DiscoFun, you will need to have the follow
 1. Clone the repository
 
 ```sh
-git clone https://github.com/OverjoyedToast/DiscoFun
+git clone https://github.com/toastbox1000/DiscoFun
 ```
 
 > ⚠️ **NOTE**: The updater only works if you have cloned the repository.
@@ -89,5 +89,5 @@ git clone https://github.com/OverjoyedToast/DiscoFun
 
 ## Issues
 
-See the [open issues](https://github.com/OverjoyedToast/DiscoFun/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/toastbox1000/DiscoFun/issues) for a list of proposed features (and known issues).
 <br/>

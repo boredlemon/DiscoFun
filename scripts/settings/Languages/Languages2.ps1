@@ -1,6 +1,6 @@
 <#
  * File: Languages2.ps1
- * Author: OverjoyedToast
+ * Author: ToastBox
  * License: GPL-3.0
 #>
 
