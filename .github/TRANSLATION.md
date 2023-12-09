@@ -6,7 +6,7 @@
 
 ## DiscoFun
 
-### 1. Open the translation file [locales.js](https://github.com/toastbox1000/DiscoFun/blob/master/assets/js/locales.js)
+### 1. Open the translation file [locales.js](https://github.com/imaketoast100/DiscoFun/blob/master/assets/js/locales.js)
 Open the `locales.js` file containing all the translations of the panel.
 
 ### 2. Translate

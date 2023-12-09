@@ -1,6 +1,6 @@
 <#
  * File: Support.ps1
- * Author: ToastBox
+ * Author: IMakeToast
  * License: GPL-3.0
 #>
 
@@ -102,7 +102,7 @@ switch ($selection) {
     .\Support.ps1
   }
   1 {
-    Start-Process 'https://github.com/toastbox1000/DiscoFun/issues/new/choose'
+    Start-Process 'https://github.com/imaketoast100/DiscoFun/issues/new/choose'
     .\Support.ps1
   }
   2 {

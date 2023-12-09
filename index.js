@@ -18,8 +18,10 @@ const createMainWindow = async () => {
   const win = new BrowserWindow({
     title: app.name,
     show: false,
-    minWidth: 600,
-    minHeight: 400,
+    // minWidth: 600,
+    // minHeight: 400,
+    minWidth: 400,
+    minHeight: 200,
     backgroundColor: '#000',
     icon: __dirname + './build/icon.png',
     webPreferences: {

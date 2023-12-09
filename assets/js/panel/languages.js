@@ -1,6 +1,6 @@
 /**
  * @file languages.js
- * @author ToastBox
+ * @author IMakeToast
  * @license GPL-3.0
  */
 

@@ -4,9 +4,9 @@
 	"version": "3.0.0",
 	"description": "The desktop application for DiscoFun.",
 	"license": "GNU General Public License v3.0",
-	"repository": "ToastBox/DiscoFun",
+	"repository": "IMakeToast/DiscoFun",
 	"author": {
-		"name": "ToastBox"
+		"name": "IMakeToast"
 	},
 	"scripts": {
 		"postinstall": "electron-builder install-app-deps",
